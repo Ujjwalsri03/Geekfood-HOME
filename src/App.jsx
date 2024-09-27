@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Navbar from './components/Header/Navbar'
+import Navbar from './Components/Header/Navbar'
 import Home from './Container/Home/Home'
 import ImageSection from './components/ImageSection/ImageSection'
 import GridCard from './components/GridComponent/GridCard'
